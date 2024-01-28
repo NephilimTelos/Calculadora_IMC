@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Calculo_IMC/1.0.0": {
+        "runtime": {
+          "Calculo_IMC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calculo_IMC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

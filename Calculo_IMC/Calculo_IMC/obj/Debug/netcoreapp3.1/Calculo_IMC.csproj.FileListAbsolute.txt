@@ -1,0 +1,32 @@
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.exe
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.deps.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.runtimeconfig.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.runtimeconfig.dev.json
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.Form1.resources
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.Properties.Resources.resources
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csproj.GenerateResource.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.AssemblyInfoInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.AssemblyInfo.cs
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csproj.CoreCompileInputs.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.dll
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.pdb
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.genruntimeconfig.cache
+C:\Users\ericb\Documents\Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csprojAssemblyReference.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.exe
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.deps.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.runtimeconfig.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.runtimeconfig.dev.json
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\bin\Debug\netcoreapp3.1\Calculo_IMC.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.Form1.resources
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.Properties.Resources.resources
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csproj.GenerateResource.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.AssemblyInfoInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.AssemblyInfo.cs
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.csproj.CoreCompileInputs.cache
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.dll
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.pdb
+F:\Arquivos de ESTUDO E IMPORTANTES\Estudos\Projetos Visual Studio\Projects\Calculo_IMC\Calculo_IMC\obj\Debug\netcoreapp3.1\Calculo_IMC.genruntimeconfig.cache
